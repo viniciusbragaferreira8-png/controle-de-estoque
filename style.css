@@ -1,0 +1,54 @@
+body{
+background-image: url("https://cdn.prod.website-files.com/6468316c421de37f67128485/652017cbd03071cd5c4460a0_como-organizar-um-estoque-logistico-platinum-log-p-800.png");
+
+    background-size: cover;
+
+    background-position: center;
+
+    background-repeat: no-repeat;
+
+    height: 100vh;
+
+    margin: 0;
+}
+    
+h1{
+    color: rgb(255, 255, 255);
+    font-family: Inter, sans-serif;
+    text-align: center;
+    text-shadow: 4px 4px 4px black;
+    margin-top: 100px;
+}
+form{
+    margin: 20px;
+    text-align: center;
+    
+}
+input{
+    padding: 10px;
+    margin: 5px;
+    border-radius: 12px;
+    margin-top: 100px;
+}
+button{
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 12px;
+    color:black;
+    border: 10px;
+    font-family:Inter, sans-serif; 
+
+}
+li{
+    background: rgb(0, 0, 0);
+    margin: 10px auto;
+    padding: 10px;
+    width: 250px;
+    list-style: none;
+    border-radius: 19px;
+    text-shadow: white;
+}
+ul {
+    color: white;
+    font-family: inter, sans-serif;
+}
